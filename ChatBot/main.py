@@ -45,5 +45,6 @@ async def on_message(message):
     if message.content == 'おはよう':
         await message.channel.send('おはよう')
     
-
+# TOKEN = "" # ここにトークン書いてね
+# client.run(TOKEN)
 client.run(c.TOKEN)
