@@ -42,5 +42,8 @@ async def on_message(message):
         await message.channel.send('ふくろうはいいぞ')
     if message.content == '/なんかしゃべって':
         await message.channel.send('無茶ぶりがすぎる')
+    if message.content == 'おはよう':
+        await message.channel.send('おはよう')
+    
 
 client.run(c.TOKEN)
