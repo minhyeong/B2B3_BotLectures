@@ -93,7 +93,7 @@ Python 3.7.4
     ![](pict/pict3.png)<br>
     ![](pict/pict4.png)<br>
     - TOKEN をコピーしてメモっといてください. のちのち使います
-    ![](pict5.png)
+    ![](pict/pict5.png)
     - 最後に左の OAuth2 に移ります.<br>
     OAuth2 URL GRNERATOR の中から "Bot" だけチェックし, 先に移ります.<br>
     そして自分のサーバに追加してください.<br>
