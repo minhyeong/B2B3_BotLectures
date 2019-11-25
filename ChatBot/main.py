@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import constant as c
 import discord
 import os
 
@@ -47,4 +46,3 @@ async def on_message(message):
     
 # TOKEN = "" # ここにトークン書いてね
 # client.run(TOKEN)
-client.run(c.TOKEN)
